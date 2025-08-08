@@ -10,5 +10,5 @@ function getName(){
 }
 function clearStorage(){
     localStorage.clear();
-    document.getElementById("output").textContent="All are clear"
+    document.getElementById("output").textContent="All Datas are clear"
 }
